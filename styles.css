@@ -1,0 +1,11 @@
+.gridDiv {
+    background-color: rgb(0,155,230);
+    border: 1px solid black;
+    width: 115px;
+    height: 115px
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
